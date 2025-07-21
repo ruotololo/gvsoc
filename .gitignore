@@ -12,4 +12,5 @@ add_dramsyslib_patches/build_dynlib_from_github_dramsys5/cmake*
 *spiflash.bin
 third_party/
 *trace_file.txt
-*tx_uart.log
+*.log
+venv
