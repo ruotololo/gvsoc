@@ -8,7 +8,7 @@ GVSOC_DIR=/home/lelez/git/pulp-sdk/tools/gvsoc/
 #APP_DIR="/home/lelez/git/pulp-sdk/tools/gvsoc/examples/pulp-open/"
 #APP_DIR="/home/lelez/git/cheshire/sw/tests/"
 APP_DIR="/home/lelez/git/carfield/sw/tests/bare-metal/hostd/"
-VENV_DIR="./venv/"
+VENV_DIR="./.venv/"
 
 TRACE_FILE="traces.log"
 
