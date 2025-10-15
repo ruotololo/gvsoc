@@ -1,7 +1,6 @@
 [submodule "core"]
 	path = core
-	url = https://github.com/gvsoc/gvsoc-core.git
-	branch = 0b47f85b4c3946076dcee00e010ed3e5b73f6bd2
+	url = https://github.com/eml-eda/can-controller-gvsoc.git
 [submodule "pulp"]
 	path = pulp
 	url = https://github.com/Lelezinski/gvsoc-pulp.git
